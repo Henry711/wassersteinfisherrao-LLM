@@ -14,13 +14,13 @@ Wasserstein transport: a component moves with step factor min(1, A·b_c/m_c), an
 
 New components are created where the data is not covered. Old knowledge becomes stiff in proportion to the evidence behind it, while new data is learned at full rate. The control BAL is the same algorithm with normalised masses.
 
-Prior work this builds on
+Prior work this builds on:
 Unbalanced optimal transport and WFR: Chizat, Peyré, Schmitzer & Vialard (2018); Liero, Mielke & Savaré (2018); Kondratyev, Monsaingeon & Vorotnikov (2016).
 Related continual-learning ideas: mixtures learned online (online EM, Dirichlet-process mixtures), CN-DPM (Lee et al., 2020), mixtures of LoRA experts (e.g. Zadouri et al., 2023).
 Baselines: EWC / online EWC (Kirkpatrick et al., 2017; Schwarz et al., 2018) and experience replay.
 Models and adapters: Pythia (Biderman et al., 2023) and LoRA (Hu et al., 2021).
 
-Data
+Data:
 arXiv abstracts (gfissore/arxiv-abstracts-2021)
 AG News
 German Wikipedia (wikimedia/wikipedia, CC BY-SA)
