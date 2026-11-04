@@ -21,10 +21,10 @@ Baselines: EWC / online EWC (Kirkpatrick et al., 2017; Schwarz et al., 2018) and
 Models and adapters: Pythia (Biderman et al., 2023) and LoRA (Hu et al., 2021).
 
 Data:
-arXiv abstracts (gfissore/arxiv-abstracts-2021)
-AG News
-German Wikipedia (wikimedia/wikipedia, CC BY-SA)
-LAMBADA (EleutherAI/lambada_openai)
-WikiText-103
+arXiv abstracts (gfissore/arxiv-abstracts-2021),
+AG News,
+German Wikipedia (wikimedia/wikipedia, CC BY-SA),
+LAMBADA (EleutherAI/lambada_openai),
+WikiText-103,
 
 
