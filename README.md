@@ -1,4 +1,4 @@
-Can reformulating the training objective as an unbalanced transport problem mitigate catastrophic forgetting in LLM's
+Can reformulating the training objective as an unbalanced transport problem mitigate catastrophic forgetting in LLM's?
 
 preliminary experiment: should take <3hrs on T4 GPU in Google Colab
 
